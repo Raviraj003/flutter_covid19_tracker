@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+add google api key in android and ios 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
